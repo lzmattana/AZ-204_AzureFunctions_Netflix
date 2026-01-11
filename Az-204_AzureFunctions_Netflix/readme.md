@@ -61,7 +61,7 @@ python --version
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/netflix-catalog-manager.git
+git clone [https://github.com/seu-usuario/netflix-catalog-manager.git](https://github.com/lzmattana/AZ-204_AzureFunctions_Netflix)
 cd netflix-catalog-manager
 ```
 
